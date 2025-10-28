@@ -4,3 +4,9 @@ Hello again. I am here to add in a second line. I am Janelle here.
 This is hello from kai sheng. I am adding a new line of
 code here
 Hello again. I am here to add in a second line. I am kai sheng
+hi
+This is hello from kai sheng. I am adding a new line of
+code here
+Hello again. I am here to add in a second line. I am kai sheng
+This is hello from Verity. I am adding a new line of code here.
+Hello again. I am here to add in a second line. I am Verity
