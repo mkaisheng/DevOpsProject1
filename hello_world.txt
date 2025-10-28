@@ -1,1 +1,2 @@
 hi
+This is hello from Verity. I am adding a new line of code here.
